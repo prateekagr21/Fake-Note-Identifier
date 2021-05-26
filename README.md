@@ -5,4 +5,4 @@
 Predicted the model \
 Saved it in a pickle file \
 Then, made a flask app \
-And deployed using Flassger.
+And deployed that using Flassger.
